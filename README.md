@@ -22,7 +22,7 @@ $ cd Spam
 
 $ ls (huruf L kecil)
 
-$ python3 Spam.py
+$ python3 Sms.py
 
 # feedback
 
