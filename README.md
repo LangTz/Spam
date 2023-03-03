@@ -22,7 +22,7 @@ $ cd Spam
 
 $ ls (huruf L kecil)
 
-$ python3 main_bot.py
+$ python3 Spam.py
 
 # feedback
 
